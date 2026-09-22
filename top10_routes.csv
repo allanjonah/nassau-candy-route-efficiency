@@ -1,0 +1,11 @@
+Factory,State/Province,Region,Route (State),Total_Shipments,Avg_Lead_Time,Lead_Time_StdDev,Delay_Frequency_Pct,Total_Sales,Total_Units,Avg_Efficiency_Score
+Wicked Choccy's,Nevada,Pacific,Wicked Choccy's -> Nevada,12,1182.25,226.37,8.3,151.5,42,63.8
+The Other Factory,Texas,Interior,The Other Factory -> Texas,9,1191.56,304.52,0.0,100.75,31,66.1
+Secret Factory,Texas,Interior,Secret Factory -> Texas,16,1227.06,323.91,18.8,517.5,63,61.8
+Lot's O' Nuts,Virginia,Gulf,Lot's O' Nuts -> Virginia,109,1229.49,262.01,13.8,1538.84,431,60.3
+Wicked Choccy's,South Carolina,Gulf,Wicked Choccy's -> South Carolina,19,1234.21,240.9,10.5,307.0,86,61.1
+Lot's O' Nuts,Utah,Pacific,Lot's O' Nuts -> Utah,29,1236.0,298.22,20.7,393.91,110,53.7
+Wicked Choccy's,Virginia,Gulf,Wicked Choccy's -> Virginia,106,1238.88,254.77,12.3,1490.0,430,57.9
+Wicked Choccy's,Mississippi,Gulf,Wicked Choccy's -> Mississippi,22,1240.45,222.89,9.1,315.75,91,54.0
+Lot's O' Nuts,Nevada,Pacific,Lot's O' Nuts -> Nevada,24,1243.25,239.22,16.7,389.21000000000004,109,55.8
+Wicked Choccy's,Quebec,Atlantic,Wicked Choccy's -> Quebec,24,1243.58,322.09,29.2,254.75,77,53.2

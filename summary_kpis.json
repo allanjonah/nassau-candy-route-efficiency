@@ -1,0 +1,21 @@
+{
+  "raw_rows": 10194,
+  "clean_rows": 10194,
+  "rows_removed": 0,
+  "invalid_dates_removed": 0,
+  "duplicate_rows_removed": 0,
+  "negative_leadtime_removed": 0,
+  "bad_financial_rows_removed": 0,
+  "unmapped_products_removed": 0,
+  "records_with_year_gap_anomaly": 10194,
+  "overall_avg_lead_time": 1320.84,
+  "overall_delay_pct_at_p75": 21.06,
+  "total_routes": 196,
+  "total_sales": 141783.63,
+  "total_gross_profit": 93442.8,
+  "best_route": "Wicked Choccy's -> Nevada",
+  "worst_route": "Wicked Choccy's -> New Mexico",
+  "best_ship_mode": "Standard Class",
+  "worst_ship_mode": "First Class",
+  "worst_region": "Interior"
+}

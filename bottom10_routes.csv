@@ -1,0 +1,11 @@
+Factory,State/Province,Region,Route (State),Total_Shipments,Avg_Lead_Time,Lead_Time_StdDev,Delay_Frequency_Pct,Total_Sales,Total_Units,Avg_Efficiency_Score
+Wicked Choccy's,New Mexico,Pacific,Wicked Choccy's -> New Mexico,17,1488.88,226.43,64.7,229.5,68,29.4
+Lot's O' Nuts,Iowa,Interior,Lot's O' Nuts -> Iowa,16,1479.0,187.51,37.5,227.87,64,32.6
+Lot's O' Nuts,South Dakota,Interior,Lot's O' Nuts -> South Dakota,9,1477.22,322.72,66.7,117.59,33,28.3
+Secret Factory,Washington,Pacific,Secret Factory -> Washington,11,1472.36,190.5,18.2,351.25,26,35.2
+Lot's O' Nuts,New Mexico,Pacific,Lot's O' Nuts -> New Mexico,18,1456.94,258.26,55.6,260.71,73,29.4
+Wicked Choccy's,Manitoba,Interior,Wicked Choccy's -> Manitoba,10,1455.6,192.9,40.0,120.25,35,40.2
+Lot's O' Nuts,Connecticut,Atlantic,Lot's O' Nuts -> Connecticut,47,1420.55,249.39,36.2,523.59,147,42.6
+Wicked Choccy's,Iowa,Interior,Wicked Choccy's -> Iowa,14,1403.79,272.0,28.6,172.5,48,41.2
+Wicked Choccy's,Indiana,Interior,Wicked Choccy's -> Indiana,54,1402.46,257.77,42.6,708.25,203,37.9
+Wicked Choccy's,Tennessee,Gulf,Wicked Choccy's -> Tennessee,67,1393.76,241.36,32.8,915.75,265,39.6

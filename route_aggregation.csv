@@ -1,0 +1,197 @@
+Factory,State/Province,Region,Route (State),Total_Shipments,Avg_Lead_Time,Lead_Time_StdDev,Delay_Frequency_Pct,Total_Sales,Total_Units,Avg_Efficiency_Score
+Secret Factory,New Mexico,Pacific,Secret Factory -> New Mexico,2,906.0,2.83,0.0,12.5,10,95.4
+Secret Factory,Nebraska,Interior,Secret Factory -> Nebraska,1,906.0,0.0,0.0,2.5,2,97.3
+The Other Factory,Louisiana,Gulf,The Other Factory -> Louisiana,1,907.0,0.0,0.0,9.75,3,95.0
+The Other Factory,Connecticut,Atlantic,The Other Factory -> Connecticut,2,907.5,2.12,0.0,9.75,3,91.6
+Secret Factory,Mississippi,Gulf,Secret Factory -> Mississippi,1,908.0,0.0,0.0,80.0,4,91.3
+Wicked Choccy's,Maine,Atlantic,Wicked Choccy's -> Maine,2,908.0,0.0,0.0,55.25,15,91.3
+Secret Factory,Louisiana,Gulf,Secret Factory -> Louisiana,2,908.5,0.71,0.0,11.25,9,88.6
+Secret Factory,Delaware,Atlantic,Secret Factory -> Delaware,1,909.0,0.0,0.0,60.0,3,85.8
+Secret Factory,South Carolina,Gulf,Secret Factory -> South Carolina,1,909.0,0.0,0.0,6.25,5,85.8
+Secret Factory,Minnesota,Interior,Secret Factory -> Minnesota,1,909.0,0.0,0.0,5.0,4,85.8
+Sugar Shack,Delaware,Atlantic,Sugar Shack -> Delaware,1,910.0,0.0,0.0,4.5,3,82.3
+The Other Factory,Florida,Gulf,The Other Factory -> Florida,3,1029.33,212.75,0.0,39.0,12,77.2
+Sugar Shack,Florida,Gulf,Sugar Shack -> Florida,3,1031.0,211.31,0.0,36.89,15,70.3
+Secret Factory,Virginia,Gulf,Secret Factory -> Virginia,5,1053.4,200.02,0.0,93.75,15,79.4
+The Other Factory,New Hampshire,Atlantic,The Other Factory -> New Hampshire,2,1088.5,258.09,0.0,35.75,11,85.0
+Sugar Shack,Illinois,Interior,Sugar Shack -> Illinois,2,1089.0,257.39,0.0,12.0,5,83.9
+The Other Factory,Oregon,Pacific,The Other Factory -> Oregon,2,1089.0,258.8,0.0,26.0,8,82.4
+Secret Factory,Nevada,Pacific,Secret Factory -> Nevada,2,1091.0,261.63,0.0,202.5,12,66.0
+Secret Factory,Arizona,Pacific,Secret Factory -> Arizona,5,1127.4,327.53,20.0,640.0,32,68.7
+The Other Factory,Massachusetts,Atlantic,The Other Factory -> Massachusetts,3,1150.67,211.02,0.0,32.5,10,73.8
+Wicked Choccy's,South Dakota,Interior,Wicked Choccy's -> South Dakota,3,1152.0,422.62,33.3,33.75,9,63.9
+The Other Factory,Virginia,Gulf,The Other Factory -> Virginia,4,1180.5,181.67,0.0,55.25,17,74.1
+Wicked Choccy's,Nevada,Pacific,Wicked Choccy's -> Nevada,12,1182.25,226.37,8.3,151.5,42,63.8
+The Other Factory,Texas,Interior,The Other Factory -> Texas,9,1191.56,304.52,0.0,100.75,31,66.1
+Lot's O' Nuts,Maine,Atlantic,Lot's O' Nuts -> Maine,6,1213.5,149.66,0.0,71.23,20,50.6
+Lot's O' Nuts,Newfoundland and Labrador,Atlantic,Lot's O' Nuts -> Newfoundland and Labrador,6,1216.17,357.45,33.3,162.0,45,49.6
+Wicked Choccy's,Montana,Pacific,Wicked Choccy's -> Montana,7,1221.86,389.9,28.6,109.5,30,56.8
+Secret Factory,Texas,Interior,Secret Factory -> Texas,16,1227.06,323.91,18.8,517.5,63,61.8
+Lot's O' Nuts,Virginia,Gulf,Lot's O' Nuts -> Virginia,109,1229.49,262.01,13.8,1538.84,431,60.3
+Wicked Choccy's,South Carolina,Gulf,Wicked Choccy's -> South Carolina,19,1234.21,240.9,10.5,307.0,86,61.1
+Lot's O' Nuts,Utah,Pacific,Lot's O' Nuts -> Utah,29,1236.0,298.22,20.7,393.91,110,53.7
+Wicked Choccy's,Virginia,Gulf,Wicked Choccy's -> Virginia,106,1238.88,254.77,12.3,1490.0,430,57.9
+Wicked Choccy's,Mississippi,Gulf,Wicked Choccy's -> Mississippi,22,1240.45,222.89,9.1,315.75,91,54.0
+Lot's O' Nuts,Nevada,Pacific,Lot's O' Nuts -> Nevada,24,1243.25,239.22,16.7,389.21000000000004,109,55.8
+Wicked Choccy's,Quebec,Atlantic,Wicked Choccy's -> Quebec,24,1243.58,322.09,29.2,254.75,77,53.2
+Lot's O' Nuts,Oregon,Pacific,Lot's O' Nuts -> Oregon,77,1245.19,269.88,16.9,1085.9,305,55.9
+Lot's O' Nuts,Ontario,Atlantic,Lot's O' Nuts -> Ontario,28,1246.29,261.42,3.6,348.32,97,63.2
+Wicked Choccy's,Ontario,Atlantic,Wicked Choccy's -> Ontario,30,1248.57,286.49,13.3,466.25,137,59.9
+Lot's O' Nuts,Kansas,Interior,Lot's O' Nuts -> Kansas,15,1248.87,216.1,6.7,188.93,53,60.6
+The Other Factory,Kentucky,Gulf,The Other Factory -> Kentucky,2,1271.0,519.02,0.0,26.0,8,61.4
+Secret Factory,Oregon,Pacific,Secret Factory -> Oregon,2,1271.5,0.71,0.0,180.0,9,70.2
+The Other Factory,Arizona,Pacific,The Other Factory -> Arizona,2,1271.5,0.71,0.0,38.75,10,70.2
+Sugar Shack,Tennessee,Gulf,Sugar Shack -> Tennessee,1,1272.0,0.0,0.0,1.5,1,67.6
+The Other Factory,Ohio,Atlantic,The Other Factory -> Ohio,3,1272.0,1.73,0.0,29.25,9,64.3
+Wicked Choccy's,Louisiana,Gulf,Wicked Choccy's -> Louisiana,15,1272.27,337.93,13.3,220.5,64,59.7
+Secret Factory,Alabama,Gulf,Secret Factory -> Alabama,3,1272.33,366.5,33.3,150.0,15,60.5
+Lot's O' Nuts,New Hampshire,Atlantic,Lot's O' Nuts -> New Hampshire,13,1272.46,210.88,0.0,178.02,50,58.9
+Wicked Choccy's,Nova Scotia,Atlantic,Wicked Choccy's -> Nova Scotia,6,1272.67,326.91,16.7,87.5,26,58.4
+Wicked Choccy's,Alabama,Gulf,Wicked Choccy's -> Alabama,22,1272.73,252.84,22.7,333.75,97,57.6
+Wicked Choccy's,Connecticut,Atlantic,Wicked Choccy's -> Connecticut,31,1272.87,267.39,19.4,440.75,127,55.7
+Secret Factory,Vermont,Atlantic,Secret Factory -> Vermont,1,1273.0,0.0,0.0,7.5,6,58.9
+Sugar Shack,Rhode Island,Atlantic,Sugar Shack -> Rhode Island,1,1273.0,0.0,0.0,4.5,3,58.9
+The Other Factory,South Carolina,Gulf,The Other Factory -> South Carolina,1,1273.0,0.0,0.0,6.5,2,58.9
+The Other Factory,Pennsylvania,Atlantic,The Other Factory -> Pennsylvania,7,1273.0,210.46,0.0,97.5,30,55.3
+The Other Factory,Rhode Island,Atlantic,The Other Factory -> Rhode Island,1,1273.0,0.0,0.0,22.75,7,58.9
+Lot's O' Nuts,New Brunswick,Atlantic,Lot's O' Nuts -> New Brunswick,4,1273.25,298.43,25.0,97.72,28,56.4
+Wicked Choccy's,New Brunswick,Atlantic,Wicked Choccy's -> New Brunswick,4,1273.25,298.43,25.0,75.0,20,56.4
+Lot's O' Nuts,Delaware,Atlantic,Lot's O' Nuts -> Delaware,43,1273.3,251.92,20.9,631.59,177,55.3
+Wicked Choccy's,Utah,Pacific,Wicked Choccy's -> Utah,23,1273.48,290.6,17.4,362.5,104,53.4
+Secret Factory,Quebec,Atlantic,Secret Factory -> Quebec,2,1273.5,516.9,50.0,100.0,5,54.0
+The Other Factory,Colorado,Pacific,The Other Factory -> Colorado,2,1273.5,2.12,0.0,19.5,6,53.4
+Wicked Choccy's,Arkansas,Gulf,Wicked Choccy's -> Arkansas,27,1273.52,303.38,22.2,393.5,112,54.8
+Wicked Choccy's,Delaware,Atlantic,Wicked Choccy's -> Delaware,49,1273.71,210.88,16.3,601.5,176,52.4
+Lot's O' Nuts,British Columbia,Pacific,Lot's O' Nuts -> British Columbia,18,1273.78,307.08,27.8,253.4,71,50.5
+Lot's O' Nuts,Alberta,Pacific,Lot's O' Nuts -> Alberta,16,1273.88,266.92,25.0,204.32,57,51.7
+Sugar Shack,Arizona,Pacific,Sugar Shack -> Arizona,1,1274.0,0.0,0.0,11.25,3,47.3
+The Other Factory,Indiana,Interior,The Other Factory -> Indiana,1,1274.0,0.0,0.0,19.5,6,47.3
+The Other Factory,Maryland,Atlantic,The Other Factory -> Maryland,1,1274.0,0.0,0.0,3.25,1,47.3
+Lot's O' Nuts,Wyoming,Pacific,Lot's O' Nuts -> Wyoming,1,1274.0,0.0,0.0,13.96,4,47.3
+Wicked Choccy's,Alberta,Pacific,Wicked Choccy's -> Alberta,8,1274.38,338.39,37.5,146.0,44,47.4
+Secret Factory,New Jersey,Atlantic,Secret Factory -> New Jersey,2,1274.5,2.12,0.0,6.25,5,46.8
+Secret Factory,Alberta,Pacific,Secret Factory -> Alberta,2,1274.5,516.9,50.0,180.0,9,47.4
+The Other Factory,Missouri,Interior,The Other Factory -> Missouri,1,1275.0,0.0,0.0,6.5,2,39.2
+Wicked Choccy's,District of Columbia,Atlantic,Wicked Choccy's -> District of Columbia,2,1275.0,0.0,0.0,16.25,5,39.2
+The Other Factory,Washington,Pacific,The Other Factory -> Washington,4,1275.0,298.02,25.0,52.0,16,43.0
+Secret Factory,Utah,Pacific,Secret Factory -> Utah,1,1275.0,0.0,0.0,100.0,5,39.2
+Lot's O' Nuts,Oklahoma,Interior,Lot's O' Nuts -> Oklahoma,41,1282.68,237.45,14.6,569.4,160,49.8
+Lot's O' Nuts,Arkansas,Gulf,Lot's O' Nuts -> Arkansas,31,1285.35,274.53,19.4,434.69,122,52.8
+Lot's O' Nuts,South Carolina,Gulf,Lot's O' Nuts -> South Carolina,21,1290.29,244.66,9.5,281.32,79,54.3
+Wicked Choccy's,Michigan,Interior,Wicked Choccy's -> Michigan,100,1291.85,239.86,15.0,1127.0,328,51.1
+Lot's O' Nuts,Massachusetts,Atlantic,Lot's O' Nuts -> Massachusetts,76,1292.12,252.38,15.8,1003.24,281,55.3
+Lot's O' Nuts,Alabama,Gulf,Lot's O' Nuts -> Alabama,34,1295.21,253.07,20.6,475.61,133,51.6
+Lot's O' Nuts,Rhode Island,Atlantic,Lot's O' Nuts -> Rhode Island,30,1296.9,301.98,6.7,353.76,99,56.8
+Lot's O' Nuts,Mississippi,Gulf,Lot's O' Nuts -> Mississippi,30,1297.67,286.78,20.0,448.43,126,51.0
+Wicked Choccy's,Nebraska,Interior,Wicked Choccy's -> Nebraska,14,1299.29,225.1,14.3,185.75,51,51.8
+Secret Factory,Ohio,Atlantic,Secret Factory -> Ohio,13,1301.23,314.93,23.1,768.75,60,52.3
+Lot's O' Nuts,Louisiana,Gulf,Lot's O' Nuts -> Louisiana,24,1302.96,283.01,12.5,283.71000000000004,80,55.0
+Lot's O' Nuts,Michigan,Interior,Lot's O' Nuts -> Michigan,147,1303.01,247.2,15.0,2103.76,590,52.8
+Wicked Choccy's,Florida,Gulf,Wicked Choccy's -> Florida,161,1305.09,250.27,22.4,2009.25,577,50.9
+Lot's O' Nuts,Arizona,Pacific,Lot's O' Nuts -> Arizona,111,1306.2,253.9,17.1,1468.05,411,50.5
+Secret Factory,California,Pacific,Secret Factory -> California,31,1308.29,288.26,16.1,1238.75,106,53.1
+Lot's O' Nuts,Texas,Interior,Lot's O' Nuts -> Texas,569,1310.46,260.34,19.9,7642.34,2142,51.3
+Wicked Choccy's,Missouri,Interior,Wicked Choccy's -> Missouri,29,1311.1,298.12,24.1,362.25,105,51.4
+Secret Factory,Pennsylvania,Atlantic,Secret Factory -> Pennsylvania,19,1311.37,295.96,26.3,762.5,100,52.5
+Wicked Choccy's,New York,Atlantic,Wicked Choccy's -> New York,436,1311.88,245.01,20.0,5518.25,1583,50.0
+Wicked Choccy's,Wisconsin,Interior,Wicked Choccy's -> Wisconsin,47,1312.23,205.33,17.0,737.25,215,49.4
+Wicked Choccy's,Ohio,Atlantic,Wicked Choccy's -> Ohio,189,1313.35,267.57,21.7,2479.75,705,53.7
+Wicked Choccy's,Kansas,Interior,Wicked Choccy's -> Kansas,9,1314.0,337.84,33.3,74.25,21,51.8
+Sugar Shack,New York,Atlantic,Sugar Shack -> New York,9,1314.11,285.41,22.2,56.97,31,48.9
+Lot's O' Nuts,North Carolina,Gulf,Lot's O' Nuts -> North Carolina,143,1314.2,249.31,16.8,2045.6100000000001,574,50.3
+Lot's O' Nuts,Pennsylvania,Atlantic,Lot's O' Nuts -> Pennsylvania,331,1315.06,260.48,20.8,4338.55,1216,52.1
+Wicked Choccy's,Texas,Interior,Wicked Choccy's -> Texas,388,1315.61,272.94,20.4,5140.5,1478,50.4
+Wicked Choccy's,Oregon,Pacific,Wicked Choccy's -> Oregon,43,1316.16,242.41,25.6,628.25,177,48.7
+Lot's O' Nuts,California,Pacific,Lot's O' Nuts -> California,1125,1316.91,265.37,20.5,15044.9,4221,51.4
+Lot's O' Nuts,Florida,Gulf,Lot's O' Nuts -> Florida,209,1318.61,283.18,23.9,2640.13,740,50.2
+Lot's O' Nuts,Montana,Pacific,Lot's O' Nuts -> Montana,8,1319.25,234.0,25.0,92.61,26,48.8
+Wicked Choccy's,Colorado,Pacific,Wicked Choccy's -> Colorado,70,1319.84,256.2,14.3,906.5,262,52.0
+Lot's O' Nuts,Illinois,Interior,Lot's O' Nuts -> Illinois,267,1319.93,268.39,21.0,3539.21,995,49.4
+Wicked Choccy's,California,Pacific,Wicked Choccy's -> California,823,1320.33,262.5,21.1,11394.0,3266,50.0
+Wicked Choccy's,Arizona,Pacific,Wicked Choccy's -> Arizona,105,1322.11,273.2,20.0,1429.5,406,47.7
+Wicked Choccy's,Kentucky,Gulf,Wicked Choccy's -> Kentucky,58,1323.81,269.0,13.8,769.25,217,47.9
+The Other Factory,California,Pacific,The Other Factory -> California,21,1325.0,265.13,14.3,233.75,70,52.4
+Wicked Choccy's,Idaho,Pacific,Wicked Choccy's -> Idaho,7,1325.0,328.43,14.3,78.75,23,52.3
+Lot's O' Nuts,Kentucky,Gulf,Lot's O' Nuts -> Kentucky,77,1325.4,276.27,13.0,1039.13,291,49.8
+Wicked Choccy's,Maryland,Atlantic,Wicked Choccy's -> Maryland,41,1326.71,264.94,9.8,652.25,183,49.0
+Secret Factory,Illinois,Interior,Secret Factory -> Illinois,13,1328.69,360.03,7.7,546.25,47,52.9
+Wicked Choccy's,Illinois,Interior,Wicked Choccy's -> Illinois,210,1329.13,266.26,23.8,2801.5,798,47.6
+Lot's O' Nuts,Georgia,Gulf,Lot's O' Nuts -> Georgia,110,1329.56,243.44,22.7,1474.09,415,49.9
+Lot's O' Nuts,New York,Atlantic,Lot's O' Nuts -> New York,645,1330.52,249.26,21.7,8757.81,2455,48.7
+Wicked Choccy's,Minnesota,Interior,Wicked Choccy's -> Minnesota,45,1330.69,310.76,28.9,595.25,169,45.7
+Wicked Choccy's,Oklahoma,Interior,Wicked Choccy's -> Oklahoma,25,1332.0,250.49,20.0,308.25,87,46.3
+Lot's O' Nuts,Ohio,Atlantic,Lot's O' Nuts -> Ohio,262,1334.11,260.44,16.8,3472.7400000000002,974,51.2
+Lot's O' Nuts,Quebec,Atlantic,Lot's O' Nuts -> Quebec,24,1334.12,298.55,29.2,242.93,68,47.1
+Wicked Choccy's,Massachusetts,Atlantic,Wicked Choccy's -> Massachusetts,54,1334.44,253.28,20.4,671.25,195,46.8
+Wicked Choccy's,New Jersey,Atlantic,Wicked Choccy's -> New Jersey,59,1335.39,216.57,23.7,672.0,194,48.2
+Lot's O' Nuts,New Jersey,Atlantic,Lot's O' Nuts -> New Jersey,65,1335.66,278.67,30.8,825.88,231,45.2
+Lot's O' Nuts,Nebraska,Interior,Lot's O' Nuts -> Nebraska,23,1336.13,237.68,17.4,295.28000000000003,83,51.3
+Wicked Choccy's,Pennsylvania,Atlantic,Wicked Choccy's -> Pennsylvania,227,1339.22,263.67,24.7,2804.25,799,49.0
+Wicked Choccy's,New Hampshire,Atlantic,Wicked Choccy's -> New Hampshire,11,1340.09,275.3,27.3,208.25,61,44.5
+Lot's O' Nuts,Washington,Pacific,Lot's O' Nuts -> Washington,269,1343.96,274.98,22.3,3492.91,980,46.9
+Wicked Choccy's,Georgia,Gulf,Wicked Choccy's -> Georgia,65,1346.15,251.88,26.2,862.25,249,47.9
+Secret Factory,Michigan,Interior,Secret Factory -> Michigan,5,1346.2,306.52,40.0,82.5,21,47.0
+Secret Factory,Wisconsin,Interior,Secret Factory -> Wisconsin,5,1346.4,163.57,20.0,415.0,32,47.7
+Lot's O' Nuts,Colorado,Pacific,Lot's O' Nuts -> Colorado,103,1347.53,252.65,18.4,1447.66,405,48.7
+Lot's O' Nuts,Minnesota,Interior,Lot's O' Nuts -> Minnesota,43,1350.4,282.63,34.9,561.21,158,43.7
+Lot's O' Nuts,Idaho,Pacific,Lot's O' Nuts -> Idaho,14,1351.36,255.75,21.4,146.5,41,49.4
+The Other Factory,New York,Atlantic,The Other Factory -> New York,14,1351.93,326.82,50.0,181.75,54,44.6
+Wicked Choccy's,North Carolina,Gulf,Wicked Choccy's -> North Carolina,101,1352.76,261.44,21.8,1376.25,391,47.2
+Wicked Choccy's,Rhode Island,Atlantic,Wicked Choccy's -> Rhode Island,21,1359.67,280.1,4.8,282.25,81,50.2
+Wicked Choccy's,British Columbia,Pacific,Wicked Choccy's -> British Columbia,4,1364.75,349.98,50.0,37.5,10,45.9
+Lot's O' Nuts,Missouri,Interior,Lot's O' Nuts -> Missouri,36,1364.83,267.22,27.8,514.08,145,43.8
+Lot's O' Nuts,District of Columbia,Atlantic,Lot's O' Nuts -> District of Columbia,8,1365.88,168.58,25.0,126.0,35,34.6
+Lot's O' Nuts,Indiana,Interior,Lot's O' Nuts -> Indiana,90,1366.79,236.12,24.4,1253.78,352,44.6
+Lot's O' Nuts,Wisconsin,Interior,Lot's O' Nuts -> Wisconsin,58,1367.64,242.38,25.9,768.25,216,45.8
+Lot's O' Nuts,Maryland,Atlantic,Lot's O' Nuts -> Maryland,60,1370.67,221.92,20.0,812.74,229,45.1
+Wicked Choccy's,Washington,Pacific,Wicked Choccy's -> Washington,221,1375.72,270.8,26.2,3023.0,860,44.3
+Secret Factory,Colorado,Pacific,Secret Factory -> Colorado,7,1376.57,178.94,14.3,171.25,20,52.6
+Secret Factory,Georgia,Gulf,Secret Factory -> Georgia,7,1377.86,347.51,42.9,317.5,29,43.0
+Secret Factory,New York,Atlantic,Secret Factory -> New York,24,1379.62,274.43,25.0,1026.25,101,45.1
+Lot's O' Nuts,Tennessee,Gulf,Lot's O' Nuts -> Tennessee,109,1390.96,257.72,31.2,1361.56,382,41.3
+Wicked Choccy's,Tennessee,Gulf,Wicked Choccy's -> Tennessee,67,1393.76,241.36,32.8,915.75,265,39.6
+Secret Factory,Rhode Island,Atlantic,Secret Factory -> Rhode Island,3,1394.33,210.17,0.0,142.5,9,46.4
+Sugar Shack,Michigan,Interior,Sugar Shack -> Michigan,3,1395.0,212.18,33.3,17.740000000000002,7,45.2
+Secret Factory,Tennessee,Gulf,Secret Factory -> Tennessee,3,1395.33,211.89,33.3,62.5,20,42.3
+Sugar Shack,Texas,Interior,Sugar Shack -> Texas,3,1395.33,212.75,33.3,15.0,10,43.5
+The Other Factory,New Jersey,Atlantic,The Other Factory -> New Jersey,3,1395.33,211.02,33.3,68.25,21,41.0
+The Other Factory,Tennessee,Gulf,The Other Factory -> Tennessee,3,1395.67,211.61,33.3,42.25,13,38.9
+Lot's O' Nuts,Prince Edward Island,Atlantic,Lot's O' Nuts -> Prince Edward Island,6,1395.83,298.67,50.0,78.1,22,36.8
+Sugar Shack,Pennsylvania,Atlantic,Sugar Shack -> Pennsylvania,3,1396.33,211.02,33.3,24.23,8,31.8
+Wicked Choccy's,Indiana,Interior,Wicked Choccy's -> Indiana,54,1402.46,257.77,42.6,708.25,203,37.9
+Wicked Choccy's,Iowa,Interior,Wicked Choccy's -> Iowa,14,1403.79,272.0,28.6,172.5,48,41.2
+Wicked Choccy's,Vermont,Atlantic,Wicked Choccy's -> Vermont,5,1418.6,200.29,0.0,51.75,15,47.4
+Lot's O' Nuts,Connecticut,Atlantic,Lot's O' Nuts -> Connecticut,47,1420.55,249.39,36.2,523.59,147,42.6
+Lot's O' Nuts,Manitoba,Interior,Lot's O' Nuts -> Manitoba,2,1454.0,258.8,0.0,18.0,5,50.0
+Secret Factory,Massachusetts,Atlantic,Secret Factory -> Massachusetts,2,1455.0,260.22,50.0,100.0,5,44.8
+Wicked Choccy's,Manitoba,Interior,Wicked Choccy's -> Manitoba,10,1455.6,192.9,40.0,120.25,35,40.2
+The Other Factory,Georgia,Gulf,The Other Factory -> Georgia,2,1456.0,258.8,50.0,39.0,12,37.8
+Secret Factory,Indiana,Interior,Secret Factory -> Indiana,4,1456.25,209.87,25.0,21.25,17,32.6
+Secret Factory,Arkansas,Gulf,Secret Factory -> Arkansas,2,1456.5,259.51,50.0,63.75,6,34.0
+The Other Factory,Delaware,Atlantic,The Other Factory -> Delaware,2,1456.5,260.92,50.0,26.0,8,35.8
+Lot's O' Nuts,New Mexico,Pacific,Lot's O' Nuts -> New Mexico,18,1456.94,258.26,55.6,260.71,73,29.4
+The Other Factory,Alabama,Gulf,The Other Factory -> Alabama,2,1457.0,257.39,50.0,35.75,11,28.0
+Wicked Choccy's,Saskatchewan,Pacific,Wicked Choccy's -> Saskatchewan,2,1457.0,258.8,50.0,29.25,9,28.2
+Wicked Choccy's,Prince Edward Island,Atlantic,Wicked Choccy's -> Prince Edward Island,4,1457.0,211.31,50.0,52.0,16,28.2
+Secret Factory,Washington,Pacific,Secret Factory -> Washington,11,1472.36,190.5,18.2,351.25,26,35.2
+Lot's O' Nuts,South Dakota,Interior,Lot's O' Nuts -> South Dakota,9,1477.22,322.72,66.7,117.59,33,28.3
+Lot's O' Nuts,Iowa,Interior,Lot's O' Nuts -> Iowa,16,1479.0,187.51,37.5,227.87,64,32.6
+Secret Factory,Florida,Gulf,Secret Factory -> Florida,7,1482.14,196.26,57.1,78.75,35,34.6
+Wicked Choccy's,New Mexico,Pacific,Wicked Choccy's -> New Mexico,17,1488.88,226.43,64.7,229.5,68,29.4
+Lot's O' Nuts,Vermont,Atlantic,Lot's O' Nuts -> Vermont,5,1492.4,200.29,20.0,103.19,29,34.6
+Secret Factory,Maryland,Atlantic,Secret Factory -> Maryland,3,1517.67,211.03,33.3,8.75,7,24.8
+Secret Factory,North Carolina,Gulf,Secret Factory -> North Carolina,4,1548.0,181.36,50.0,20.0,16,21.2
+The Other Factory,North Carolina,Gulf,The Other Factory -> North Carolina,1,1635.0,0.0,0.0,9.0,2,32.2
+Wicked Choccy's,North Dakota,Interior,Wicked Choccy's -> North Dakota,2,1637.0,0.0,0.0,52.5,14,27.3
+Lot's O' Nuts,West Virginia,Atlantic,Lot's O' Nuts -> West Virginia,2,1637.0,2.83,50.0,38.72,11,24.5
+Sugar Shack,Ohio,Atlantic,Sugar Shack -> Ohio,2,1637.5,3.54,50.0,18.46,11,20.6
+Secret Factory,Kentucky,Gulf,Secret Factory -> Kentucky,2,1637.5,0.71,0.0,46.25,7,25.2
+The Other Factory,Nevada,Pacific,The Other Factory -> Nevada,1,1638.0,0.0,0.0,16.25,5,23.1
+Sugar Shack,California,Pacific,Sugar Shack -> California,1,1638.0,0.0,0.0,6.0,4,23.1
+Sugar Shack,Washington,Pacific,Sugar Shack -> Washington,1,1638.0,0.0,0.0,1.99,1,23.1
+Secret Factory,Connecticut,Atlantic,Secret Factory -> Connecticut,1,1638.0,0.0,0.0,2.5,2,23.1
+Lot's O' Nuts,North Dakota,Interior,Lot's O' Nuts -> North Dakota,5,1638.2,1.64,40.0,57.160000000000004,16,20.0
+Wicked Choccy's,West Virginia,Atlantic,Wicked Choccy's -> West Virginia,2,1639.0,0.0,100.0,25.25,7,16.7
+Secret Factory,New Hampshire,Atlantic,Secret Factory -> New Hampshire,1,1641.0,0.0,100.0,6.25,5,3.9
+Sugar Shack,Connecticut,Atlantic,Sugar Shack -> Connecticut,1,1641.0,0.0,100.0,3.98,2,3.9
+Sugar Shack,New Jersey,Atlantic,Sugar Shack -> New Jersey,1,1642.0,0.0,100.0,5.97,3,1.0

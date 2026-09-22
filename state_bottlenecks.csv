@@ -1,0 +1,60 @@
+State/Province,Region,Total_Shipments,Avg_Lead_Time,Delay_Frequency_Pct,Bottleneck_Flag
+Alabama,Gulf,61,1291.28,23.0,False
+Alberta,Pacific,26,1274.08,30.8,False
+Arizona,Pacific,224,1309.21,18.3,False
+Arkansas,Gulf,60,1285.73,21.7,False
+British Columbia,Pacific,22,1290.32,31.8,False
+California,Pacific,2001,1318.43,20.6,True
+Colorado,Pacific,182,1337.19,16.5,True
+Connecticut,Atlantic,82,1357.55,29.3,True
+Delaware,Atlantic,96,1269.75,18.8,False
+District of Columbia,Atlantic,10,1347.7,20.0,False
+Florida,Gulf,383,1311.4,23.5,False
+Georgia,Gulf,184,1338.64,25.0,True
+Idaho,Pacific,21,1342.57,19.0,False
+Illinois,Interior,492,1323.15,21.7,True
+Indiana,Interior,149,1381.5,30.9,True
+Iowa,Interior,30,1443.9,33.3,False
+Kansas,Interior,24,1273.29,16.7,False
+Kentucky,Gulf,139,1328.45,12.9,True
+Louisiana,Gulf,42,1263.79,11.9,False
+Maine,Atlantic,8,1137.12,0.0,False
+Manitoba,Interior,12,1455.33,33.3,False
+Maryland,Atlantic,105,1356.78,16.2,True
+Massachusetts,Atlantic,135,1308.32,17.8,False
+Michigan,Interior,255,1300.56,15.7,False
+Minnesota,Interior,89,1335.47,31.5,True
+Mississippi,Gulf,53,1266.57,15.1,False
+Missouri,Interior,66,1339.86,25.8,True
+Montana,Pacific,15,1273.8,26.7,False
+Nebraska,Interior,38,1311.24,15.8,False
+Nevada,Pacific,39,1226.79,12.8,False
+New Brunswick,Atlantic,8,1273.25,25.0,False
+New Hampshire,Atlantic,27,1300.04,14.8,False
+New Jersey,Atlantic,130,1338.33,27.7,True
+New Mexico,Pacific,37,1441.84,56.8,False
+New York,Atlantic,1128,1324.49,21.5,True
+Newfoundland and Labrador,Atlantic,6,1216.17,33.3,False
+North Carolina,Gulf,249,1334.88,19.3,True
+North Dakota,Interior,7,1637.86,28.6,False
+Nova Scotia,Atlantic,6,1272.67,16.7,False
+Ohio,Atlantic,469,1325.73,19.0,True
+Oklahoma,Interior,66,1301.36,16.7,False
+Ontario,Atlantic,58,1247.47,8.6,False
+Oregon,Pacific,124,1267.71,19.4,False
+Pennsylvania,Atlantic,587,1324.2,22.3,True
+Prince Edward Island,Atlantic,10,1420.3,50.0,False
+Quebec,Atlantic,50,1288.24,30.0,False
+Rhode Island,Atlantic,56,1324.8,5.4,False
+Saskatchewan,Pacific,2,1457.0,50.0,False
+South Carolina,Gulf,42,1255.43,9.5,False
+South Dakota,Interior,12,1395.92,58.3,False
+Tennessee,Gulf,183,1391.49,31.7,True
+Texas,Interior,985,1310.31,19.9,False
+Utah,Pacific,53,1253.0,18.9,False
+Vermont,Atlantic,11,1438.91,9.1,False
+Virginia,Gulf,224,1229.12,12.5,False
+Washington,Pacific,506,1360.66,23.9,True
+West Virginia,Atlantic,4,1638.0,75.0,False
+Wisconsin,Interior,110,1343.0,21.8,True
+Wyoming,Pacific,1,1274.0,0.0,False
